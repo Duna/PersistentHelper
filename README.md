@@ -27,6 +27,6 @@ public class ExampleFragment extends Fragment {
         PersistentHelper.restoreState(this, savedInstanceState, Fragment.class);
         //javaObject and currentPosition restored
     }
-    ```
+```
     
     For additional information mailto: dunatv@gmail.com
